@@ -10,4 +10,3 @@ $ ros2 run optical_flow optical_flow
 $ ros2 launch segway_gazebo segway_sim.launch.py
 ```
 [![Watch the video](http://img.youtube.com/vi/zDd_ZGtAtps/0.jpg)](https://www.youtube.com/watch?v=zDd_ZGtAtps)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zDd_ZGtAtps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
